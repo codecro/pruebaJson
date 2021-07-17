@@ -1,38 +1,41 @@
-[ 
-    { "nroExpediente": "112421",
-    "nroSolicitud": "124142",
-    "tipoRegistro": "utuyt",
-    "categoria": "asas",
-    "sector": "sas",
-    "nombreSolicitante": "asas",
-    "depOpin": "sas",
-    "fechaPresentacion": "12/04/2021",
-    "fechaLimiteAsignada": "12/04/2021",
-    "fechaLimiteEmision": "12/04/2021",
-    "estado": "utut"
-  },
-  { "nroExpediente": "5676",
-    "nroSolicitud": "43628",
-    "tipoRegistro": "utuyt",
-    "categoria": "asas",
-    "sector": "sas",
-    "nombreSolicitante": "asas",
-    "depOpin": "sas",
-    "fechaPresentacion": "12/04/2021",
-    "fechaLimiteAsignada": "12/04/2021",
-    "fechaLimiteEmision": "12/04/2021",
-    "estado": "utut"
-  },
-  { "nroExpediente": "08977",
-    "nroSolicitud": "59696",
-    "tipoRegistro": "utuyt",
-    "categoria": "asas",
-    "sector": "sas",
-    "nombreSolicitante": "asas",
-    "depOpin": "sas",
-    "fechaPresentacion": "12/04/2021",
-    "fechaLimiteAsignada": "12/04/2021",
-    "fechaLimiteEmision": "12/04/2021",
-    "estado": "utut"
-  }
+[
+   {
+      "nroExpediente": "112421",
+      "nroSolicitud": "124142",
+      "tipoRegistro": "utuyt",
+      "categoria": "asas",
+      "sector": "sas",
+      "nombreSolicitante": "asas",
+      "depOpin": "sas",
+      "fechaPresentacion": "12/04/2021",
+      "fechaLimiteAsignada": "12/04/2021",
+      "fechaLimiteEmision": "12/04/2021",
+      "estado": "utut"
+   },
+   {
+      "nroExpediente": "5676",
+      "nroSolicitud": "43628",
+      "tipoRegistro": "utuyt",
+      "categoria": "asas",
+      "sector": "sas",
+      "nombreSolicitante": "asas",
+      "depOpin": "sas",
+      "fechaPresentacion": "12/04/2021",
+      "fechaLimiteAsignada": "12/04/2021",
+      "fechaLimiteEmision": "12/04/2021",
+      "estado": "utut"
+   },
+   {
+      "nroExpediente": "08977",
+      "nroSolicitud": "59696",
+      "tipoRegistro": "utuyt",
+      "categoria": "asas",
+      "sector": "sas",
+      "nombreSolicitante": "asas",
+      "depOpin": "sas",
+      "fechaPresentacion": "12/04/2021",
+      "fechaLimiteAsignada": "12/04/2021",
+      "fechaLimiteEmision": "12/04/2021",
+      "estado": "utut"
+   }
 ]
